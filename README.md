@@ -4,7 +4,7 @@
 I am a cybersecurity student with a deep passion for technology and a strong commitment to tackling complex security challenges
 
 ## Objective
-Passionate cybersecurity student focused on Blue Team operations and cyber analysis. Eager to contribute to threat detection and incident response while continuously expanding my skills in a collaborative environment.
+Passionate cybersecurity student focused on Blue Team operations. Eager to contribute to threat detection and incident response while continuously expanding my skills in a collaborative environment.
 
 ## Skills
 
