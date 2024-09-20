@@ -7,7 +7,6 @@ I am a cybersecurity student with a deep passion for technology and a strong com
 Passionate cybersecurity student focused on Blue Team operations and cyber analysis. Eager to contribute to threat detection and incident response while continuously expanding my skills in a collaborative environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ Passionate cybersecurity student focused on Blue Team operations and cyber analy
 | Katalon Studio Automation Testing | <a href="https://github.com/SushiBar1111/StudyHub_Frontend">StudyHub</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Machine Learning Development
 <div>
@@ -37,7 +35,7 @@ Passionate cybersecurity student focused on Blue Team operations and cyber analy
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Cisco%20Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
