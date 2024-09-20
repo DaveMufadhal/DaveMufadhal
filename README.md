@@ -11,12 +11,12 @@ Passionate cybersecurity student focused on Blue Team operations and cyber analy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Machine Learning          | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
+| Deep Learning | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
+| Sklearn Library         | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
+| Keras Library      | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
+| TensorFlow Library                  | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
+| Flutter | <a href="https://google.com">Study Hub</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
