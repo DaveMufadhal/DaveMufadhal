@@ -1,7 +1,7 @@
 # Hello, I'm Dave Mufadhal
 <a href="https://www.linkedin.com/in/dave-mufadhal-09053830b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity student with a deep passion for technology and a strong commitment to tackling complex security challenges
 
 ## Objective
 Passionate cybersecurity student focused on Blue Team operations and cyber analysis. Eager to contribute to threat detection and incident response while continuously expanding my skills in a collaborative environment.
