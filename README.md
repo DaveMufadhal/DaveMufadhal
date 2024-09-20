@@ -16,41 +16,37 @@ Passionate cybersecurity student focused on Blue Team operations and cyber analy
 | Sklearn Library         | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
 | Keras Library      | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
 | TensorFlow Library                  | <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>|
-| Flutter | <a href="https://google.com">Study Hub</a>|
+| Flutter | <a href="https://github.com/SushiBar1111/StudyHub_Frontend">StudyHub</a>|
+| Dart | <a href="https://github.com/SushiBar1111/StudyHub_Frontend">StudyHub</a>|
+| Android Studio | <a href="https://github.com/SushiBar1111/StudyHub_Frontend">StudyHub</a>|
+| Katalon Studio Automation Testing | <a href="https://github.com/SushiBar1111/StudyHub_Frontend">StudyHub</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Machine Learning Development
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </div>
 
-### Endpoint
+### Mobile app Development
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Katalon%20Studio-00a4e4?style=for-the-badge&logo=katalon-studio&logoColor=white" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Endpoint%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Cyber%20Threat%20Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-IBM%20Data%20Science%20for%20Business%20Level%201-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/-IBM%20Quantum%20Safe%20Encryption%20Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cognitive%20Class%20SQL%20and%20Relational%20Databases%20101-0A0A0A?style=for-the-badge&logo=ibm&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>
-- <a href="https://google.com">Study Hub</a>
+- <a href="https://github.com/SushiBar1111/StudyHub_Frontend">StudyHub</a>
