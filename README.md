@@ -38,6 +38,7 @@ Passionate cybersecurity student focused on Blue Team operations. Eager to contr
 <div>
     <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### Enumeration & Scanning
