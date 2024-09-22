@@ -34,6 +34,25 @@ Passionate cybersecurity student focused on Blue Team operations. Eager to contr
    <img src="https://img.shields.io/badge/-Katalon%20Studio-00a4e4?style=for-the-badge&logo=katalon-studio&logoColor=white" />
 </div>
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white" />
+</div>
+
+### Enumeration & Scanning
+<div>
+    <img src="https://img.shields.io/badge/-Dirsearch-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-000000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JoomScan-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
+</div>
+
+### Dyanamic Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
+</div>
+
+
 ## Certifications
 
 <div>
@@ -48,3 +67,7 @@ Passionate cybersecurity student focused on Blue Team operations. Eager to contr
 ## Projects
 - <a href="https://colab.research.google.com/drive/1B1t7tTFjvSIDJeZQjCZgfkojdwrfsEXl?usp=sharing">Testing ML for Malicious URL Detection</a>
 - <a href="https://github.com/SushiBar1111/StudyHub_Frontend">StudyHub</a>
+
+## Writeup
+- <a href="https://docs.google.com/document/d/1tAGQT8sxKntJGwxt1OBGfh3G4GH4Hv312Zs0KILLnxs/edit?usp=sharing">CozyHosting Hack The Box</a>
+- <a href="https://docs.google.com/document/d/1nsbjBHFoG2a3yra7Z0wEy9nfv0jbAqZeX5y32ncsL8o/edit?usp=sharing">Devvortex Hack The Box</a>
