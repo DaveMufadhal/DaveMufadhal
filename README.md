@@ -46,9 +46,11 @@ Passionate cybersecurity student focused on Blue Team operations. Eager to contr
     <img src="https://img.shields.io/badge/-Dirsearch-1E90FF?style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Gobuster-000000?style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-JoomScan-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MobSF-3A3A3A?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLMap-CC3E3E?style=for-the-badge&logo=database&logoColor=white" />
 </div>
 
-### Dyanamic Analysis
+### Dynamic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
 </div>
