@@ -50,9 +50,15 @@ Passionate cybersecurity student focused on Blue Team operations. Eager to contr
     <img src="https://img.shields.io/badge/-SQLMap-CC3E3E?style=for-the-badge&logo=database&logoColor=white" />
 </div>
 
-### Dynamic Analysis
+### Dynamic & Static Analysis
 <div>
     <img src="https://img.shields.io/badge/-Frida-009688?style=for-the-badge&logo=frida&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</div>
+
+### Reverse Engineering
+<div>
+    <img src="https://img.shields.io/badge/-APKTool-6EAF1D?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
 
